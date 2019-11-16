@@ -1,0 +1,7 @@
+cat
+cal
+at
+bg
+fg
+grep
+egrep
