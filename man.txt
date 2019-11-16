@@ -1,0 +1,3 @@
+cal -> for calender
+date -> for system date
+ls -> for listing files in a directory
